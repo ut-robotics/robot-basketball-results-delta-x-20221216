@@ -10,8 +10,15 @@
   "rounds": [
     {
       "scores": [
-        [{"time": 1671193035010, "isValid": true}],
-        [{"time": 1671193036352, "isValid": true}]
+        [
+          {"time": 1671193035010, "isValid": true},
+          {"time": 1671193055402, "isValid": true},
+          {"time": 1671193060461, "isValid": true}
+        ],
+        [
+          {"time": 1671193036352, "isValid": true},
+          {"time": 1671193060287, "isValid": true}
+        ]
       ],
       "fouls": [[], []],
       "baskets": ["magenta", "blue"],
