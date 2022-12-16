@@ -36,20 +36,33 @@
         [
           {"time": 1671193558049, "isValid": true},
           {"time": 1671193562160, "isValid": true},
-          {"time": 1671193574409, "isValid": true}
+          {"time": 1671193574409, "isValid": true},
+          {"time": 1671193587502, "isValid": true},
+          {"time": 1671193597242, "isValid": true}
         ],
         [
           {"time": 1671193554755, "isValid": true},
           {"time": 1671193563679, "isValid": true},
-          {"time": 1671193572072, "isValid": true}
+          {"time": 1671193572072, "isValid": true},
+          {"time": 1671193599424, "isValid": true},
+          {"time": 1671193602431, "isValid": true}
         ]
       ],
       "fouls": [[], []],
       "baskets": ["blue", "magenta"],
+      "hasEnded": true,
+      "isConfirmed": true,
+      "roundMaxLength": 60000,
+      "runs": [{"startTime": 1671193546820, "endTime": 1671193606273}]
+    },
+    {
+      "scores": [[], []],
+      "fouls": [[], []],
+      "baskets": ["magenta", "blue"],
       "hasEnded": false,
       "isConfirmed": false,
       "roundMaxLength": 60000,
-      "runs": [{"startTime": 1671193546820, "endTime": null}]
+      "runs": []
     }
   ],
   "ballPlacement": [
