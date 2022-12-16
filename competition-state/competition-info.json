@@ -5,7 +5,8 @@
     {"id": "owo", "name": "OWO"},
     {"id": "gibibot", "name": "GibiBot"},
     {"id": "placeholder", "name": "%placeholder%"},
-    {"id": "jurto", "name": "Kivipallur Jürto"}
+    {"id": "jurto", "name": "Kivipallur Jürto"},
+    {"id": "jackbot", "name": "Jackbot"}
   ],
   "tournament": null
 }
