@@ -801,7 +801,7 @@
               [
                 {"time": 1671193725740, "isValid": true},
                 {"time": 1671193738781, "isValid": true},
-                {"time": 1671193738870, "isValid": true}
+                {"time": 1671193738870, "isValid": false}
               ]
             ],
             "fouls": [[], []],
@@ -918,7 +918,7 @@
           [
             {"time": 1671193725740, "isValid": true},
             {"time": 1671193738781, "isValid": true},
-            {"time": 1671193738870, "isValid": true}
+            {"time": 1671193738870, "isValid": false}
           ]
         ],
         "fouls": [[], []],
