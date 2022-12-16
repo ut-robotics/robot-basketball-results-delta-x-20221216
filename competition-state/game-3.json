@@ -1,0 +1,68 @@
+{
+  "id": 3,
+  "robots": [
+    {"id": "jackbot", "name": "Jackbot"},
+    {"id": "placeholder", "name": "%placeholder%"}
+  ],
+  "startingBaskets": ["magenta", "blue"],
+  "isTieAllowed": true,
+  "hasEnded": true,
+  "rounds": [
+    {
+      "scores": [
+        [
+          {"time": 1671190798343, "isValid": true},
+          {"time": 1671190816999, "isValid": true},
+          {"time": 1671190824625, "isValid": true},
+          {"time": 1671190847467, "isValid": true}
+        ],
+        [{"time": 1671190801544, "isValid": true}]
+      ],
+      "fouls": [[], []],
+      "baskets": ["magenta", "blue"],
+      "hasEnded": true,
+      "isConfirmed": true,
+      "roundMaxLength": 60000,
+      "runs": [{"startTime": 1671190789997, "endTime": 1671190850050}]
+    },
+    {
+      "scores": [[], [{"time": 1671191022804, "isValid": true}]],
+      "fouls": [[{"time": 1671190967314}, {"time": 1671191069562}], []],
+      "baskets": ["blue", "magenta"],
+      "hasEnded": true,
+      "isConfirmed": true,
+      "roundMaxLength": 60000,
+      "runs": [
+        {"startTime": 1671190922708, "endTime": 1671190959171},
+        {"startTime": 1671191020139, "endTime": 1671191037531},
+        {"startTime": 1671191060724, "endTime": 1671191064052},
+        {"startTime": 1671191112573, "endTime": 1671191115406}
+      ]
+    },
+    {
+      "scores": [[], [{"time": 1671191242065, "isValid": true}]],
+      "fouls": [[{"time": 1671191202238}], []],
+      "baskets": ["magenta", "blue"],
+      "hasEnded": true,
+      "isConfirmed": true,
+      "roundMaxLength": 60000,
+      "runs": [
+        {"startTime": 1671191166106, "endTime": 1671191194549},
+        {"startTime": 1671191238837, "endTime": 1671191270479}
+      ]
+    }
+  ],
+  "ballPlacement": [
+    [0, 0],
+    [-0.73, -0.53],
+    [0.73, 0.53],
+    [-0.29, -1.36],
+    [0.29, 1.36],
+    [1.78, -0.89],
+    [-1.78, 0.89],
+    [-1.47, -0.33],
+    [1.47, 0.33],
+    [1, -1.4],
+    [-1, 1.4]
+  ]
+}

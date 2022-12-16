@@ -1,0 +1,50 @@
+{
+  "id": 4,
+  "robots": [
+    {"id": "owo", "name": "OWO"},
+    {"id": "gibibot", "name": "GibiBot"}
+  ],
+  "startingBaskets": ["blue", "magenta"],
+  "isTieAllowed": true,
+  "hasEnded": false,
+  "rounds": [
+    {
+      "scores": [
+        [
+          {"time": 1671191417521, "isValid": true},
+          {"time": 1671191421545, "isValid": true},
+          {"time": 1671191429977, "isValid": false},
+          {"time": 1671191437867, "isValid": true},
+          {"time": 1671191445068, "isValid": true},
+          {"time": 1671191445178, "isValid": true}
+        ],
+        [
+          {"time": 1671191415658, "isValid": true},
+          {"time": 1671191420177, "isValid": true},
+          {"time": 1671191423405, "isValid": true},
+          {"time": 1671191426939, "isValid": true},
+          {"time": 1671191432772, "isValid": true}
+        ]
+      ],
+      "fouls": [[], []],
+      "baskets": ["blue", "magenta"],
+      "hasEnded": true,
+      "isConfirmed": false,
+      "roundMaxLength": 60000,
+      "runs": [{"startTime": 1671191410135, "endTime": 1671191447524}]
+    }
+  ],
+  "ballPlacement": [
+    [0, 0],
+    [-1.81, -0.02],
+    [1.81, 0.02],
+    [-0.97, 0.8],
+    [0.97, -0.8],
+    [-2.19, 0.57],
+    [2.19, -0.57],
+    [-0.93, -0.7],
+    [0.93, 0.7],
+    [-0.19, 0.81],
+    [0.19, -0.81]
+  ]
+}

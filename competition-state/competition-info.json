@@ -22,14 +22,14 @@
       {"id": "gibibot", "name": "GibiBot"}
     ],
     "roundCount": 3,
-    "gameIDs": [1, 2],
-    "byes": [{"robotID": "gibibot"}],
+    "gameIDs": [1, 2, 3, 4],
+    "byes": [{"robotID": "gibibot"}, {"robotID": "jurto"}],
     "robotStartingBaskets": {
-      "placeholder": ["magenta"],
+      "placeholder": ["magenta", "blue"],
       "jurto": ["blue"],
-      "owo": ["magenta"],
-      "jackbot": ["blue"],
-      "gibibot": []
+      "owo": ["magenta", "blue"],
+      "jackbot": ["blue", "magenta"],
+      "gibibot": ["magenta"]
     },
     "hasEnded": false
   }
