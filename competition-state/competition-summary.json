@@ -281,7 +281,7 @@
                 {"time": 1671191429977, "isValid": false},
                 {"time": 1671191437867, "isValid": true},
                 {"time": 1671191445068, "isValid": true},
-                {"time": 1671191445178, "isValid": true}
+                {"time": 1671191445178, "isValid": false}
               ],
               [
                 {"time": 1671191415658, "isValid": true},
@@ -368,7 +368,7 @@
             {"time": 1671191429977, "isValid": false},
             {"time": 1671191437867, "isValid": true},
             {"time": 1671191445068, "isValid": true},
-            {"time": 1671191445178, "isValid": true}
+            {"time": 1671191445178, "isValid": false}
           ],
           [
             {"time": 1671191415658, "isValid": true},
