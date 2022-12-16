@@ -1,6 +1,9 @@
 {
   "id": "delta-x-20221216",
   "name": "Delta X 2022-12-16",
-  "robots": [{"id": "owo", "name": "OWO"}],
+  "robots": [
+    {"id": "owo", "name": "OWO"},
+    {"id": "gibibot", "name": "GibiBot"}
+  ],
   "tournament": null
 }
