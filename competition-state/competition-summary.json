@@ -987,7 +987,8 @@
               [
                 {"time": 1671194841484, "isValid": true},
                 {"time": 1671194847537, "isValid": true},
-                {"time": 1671194853916, "isValid": true}
+                {"time": 1671194853916, "isValid": true},
+                {"time": 1671194877661, "isValid": true}
               ],
               [{"time": 1671194842563, "isValid": true}]
             ],
@@ -995,10 +996,10 @@
             "baskets": ["blue", "magenta"],
             "hasEnded": false,
             "isConfirmed": false,
-            "duration": 19680,
+            "duration": 42512,
             "timeLimit": 60000,
             "winnerIndex": -1,
-            "runs": [{"startTime": 1671194834240, "endTime": null}]
+            "runs": [{"startTime": 1671194834240, "endTime": 1671194876752}]
           }
         ],
         "status": {"result": "unknown"},
@@ -1050,7 +1051,8 @@
           [
             {"time": 1671194841484, "isValid": true},
             {"time": 1671194847537, "isValid": true},
-            {"time": 1671194853916, "isValid": true}
+            {"time": 1671194853916, "isValid": true},
+            {"time": 1671194877661, "isValid": true}
           ],
           [{"time": 1671194842563, "isValid": true}]
         ],
@@ -1058,10 +1060,10 @@
         "baskets": ["blue", "magenta"],
         "hasEnded": false,
         "isConfirmed": false,
-        "duration": 19680,
+        "duration": 42512,
         "timeLimit": 60000,
         "winnerIndex": -1,
-        "runs": [{"startTime": 1671194834240, "endTime": null}]
+        "runs": [{"startTime": 1671194834240, "endTime": 1671194876752}]
       }
     ],
     "status": {"result": "unknown"},
