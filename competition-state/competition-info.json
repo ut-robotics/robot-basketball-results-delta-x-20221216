@@ -8,5 +8,29 @@
     {"id": "jurto", "name": "Kivipallur Jürto"},
     {"id": "jackbot", "name": "Jackbot"}
   ],
-  "tournament": null
+  "tournament": {
+    "swissEnabled": true,
+    "numberOfSwissRounds": 3,
+    "doubleEliminationEnabled": true
+  },
+  "swissSystemTournament": {
+    "robots": [
+      {"id": "placeholder", "name": "%placeholder%"},
+      {"id": "jurto", "name": "Kivipallur Jürto"},
+      {"id": "owo", "name": "OWO"},
+      {"id": "jackbot", "name": "Jackbot"},
+      {"id": "gibibot", "name": "GibiBot"}
+    ],
+    "roundCount": 3,
+    "gameIDs": [1, 2],
+    "byes": [{"robotID": "gibibot"}],
+    "robotStartingBaskets": {
+      "placeholder": ["magenta"],
+      "jurto": ["blue"],
+      "owo": ["magenta"],
+      "jackbot": ["blue"],
+      "gibibot": []
+    },
+    "hasEnded": false
+  }
 }
