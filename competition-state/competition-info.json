@@ -31,6 +31,29 @@
       "jackbot": ["blue", "magenta", "blue"],
       "gibibot": ["magenta", "blue"]
     },
+    "hasEnded": true
+  },
+  "doubleEliminationTournament": {
+    "robots": [
+      {"id": "owo", "name": "OWO"},
+      {"id": "placeholder", "name": "%placeholder%"},
+      {"id": "gibibot", "name": "GibiBot"},
+      {"id": "jurto", "name": "Kivipallur Jürto"}
+    ],
+    "gameIDs": [1001],
+    "gameTypes": {"1001": "noLoss"},
+    "noLossQueue": [
+      {"id": "gibibot", "name": "GibiBot"},
+      {"id": "jurto", "name": "Kivipallur Jürto"}
+    ],
+    "oneLossQueue": [],
+    "eliminatedRobots": [],
+    "robotStartingBaskets": {
+      "owo": ["magenta", "blue", "magenta"],
+      "placeholder": ["magenta", "blue", "magenta", "blue"],
+      "gibibot": ["magenta", "blue"],
+      "jurto": ["blue", "magenta"]
+    },
     "hasEnded": false
   }
 }
