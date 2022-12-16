@@ -4,7 +4,7 @@
   "robots": [
     {"id": "owo", "name": "OWO"},
     {"id": "gibibot", "name": "GibiBot"},
-    {"id": "gibibot", "name": "GibiBot"}
+    {"id": "placeholder", "name": "%placeholder%"}
   ],
   "tournament": null
 }
